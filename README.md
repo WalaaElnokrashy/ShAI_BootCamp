@@ -1,2 +1,2 @@
 # ShAI Company
-this repository conayins project of ShAI company BootCamp
+this repository contains projects of ShAI company BootCamp.
